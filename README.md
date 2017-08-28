@@ -10,5 +10,5 @@ In the [wishlist file](WISHLIST.md), features that would be nice to have are lis
 # FAQ
 
 ### Q) Why not Kanban, Trello, Issues, etc?
-In open source projects, developers work on their free time and, at their own pace, and out of pure motivation. Setting goals and deadlines is not comaptible with this methodology, as things get done when they get done. Because of this, the aim of this document is to just list and discuss the ideas.
+In open source projects, developers work on their free time and, at their own pace, and out of pure motivation. Setting goals and deadlines is not compatible with this methodology, as things get done when they get done. Because of this, the aim of this document is to just list and discuss the ideas.
 
