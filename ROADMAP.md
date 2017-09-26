@@ -31,6 +31,7 @@
 * Paintable textures				
 * Animated textures				
 * Directional 2D shadows				
+* SVG to 2D mesh importing				
 
 ### Animation	Features 
 * Transition graph				
