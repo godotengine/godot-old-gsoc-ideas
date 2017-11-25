@@ -46,7 +46,7 @@
 ### Physics				
 * Rework/speed up collision code				
 * convex decomposition for trimesh				
-* Better ragdoll support (easier to configure				
+* Better ragdoll support (easier to configure)				
 * IK Support for skeletons				
 
 ### GDScript				
