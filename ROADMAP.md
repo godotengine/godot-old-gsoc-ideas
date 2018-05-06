@@ -8,7 +8,6 @@
 * Particle volumes (2D and 3D)				
 * Real Particle Trails				
 * Baked top-down GI				
-* VR Support				
 * Decals				
 * Render Layers and configurable render passes				
 * Volumetric Lighting				
@@ -18,7 +17,6 @@
 * clustered fog	use clustered information to render fog to a 3D texture, then put it back as post process			
 * occlusion in real-time
 * Shader caching				
-* fix SSAO depth discontinuities using better depth aware blur				
 * make GI probes real time				
 * Bring back portals and rooms using areas, support sound too				
 * octree color and decal painting				
@@ -26,8 +24,6 @@
 * properly expose texture arrays and 3D textures. Make array importer?				
 
 ### 2D Rendering Features
-* Skeletons for 2D				
-* Meshes for 2D				
 * Paintable textures				
 * Animated textures				
 * Directional 2D shadows				
@@ -36,7 +32,6 @@
 * Transition graph				
 * Bezier curve support				
 * Cinematic stuff (check cinemachine)				
-* onion skinning	https://github.com/godotengine/godot/issues/10425#issuecomment-323503064			
 
 ### Navmesh Features
 * Implement Recast support	generate both from 3D and physics engine. Ability to generate in real-time too.			
