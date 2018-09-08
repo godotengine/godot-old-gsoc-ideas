@@ -24,7 +24,10 @@
 
 ### 2D Rendering Features
 * Paintable textures (this needs a proposal)
-* Directional 2D shadows				
+* Directional 2D shadows
+
+### Compute buffers
+* API to create compute buffers, draw to them, etc.
 
 ### Navmesh Features
 * Implement Recast support	generate both from 3D and physics engine. Ability to generate in real-time too.			
