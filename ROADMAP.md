@@ -25,6 +25,8 @@
 ### 2D Rendering Features
 * Paintable textures (this needs a proposal)
 * Directional 2D shadows
+* Import SVGs as meshes
+* Internal vertices for Polygon2D/Skeleton2D deform
 
 ### Compute buffers
 * API to create compute buffers, draw to them, etc.
