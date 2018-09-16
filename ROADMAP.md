@@ -1,6 +1,7 @@
 
 
 ### 3D Rendering Features
+* Vulkan support
 * LightMapp, rewrite using GPU and BVH. Also add a denoiser.
 * Clustered Rendering [3.2]
 * Particle Collision (may be doable using physics engine in CPUParticles)
