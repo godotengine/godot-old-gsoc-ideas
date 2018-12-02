@@ -49,7 +49,8 @@
 * Multithread support in debugger				
 				
 ### Export				
-* Easier template builder for iOS/Android				
+* Easier template builder for iOS/Android
+* Stripped (no textures or geometry, maybe no animation?) export for dedicated server.
 
 ### Debugger				
 * Improve debugger (exploring data)
