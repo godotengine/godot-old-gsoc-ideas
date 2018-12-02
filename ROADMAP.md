@@ -44,7 +44,7 @@
 * convex decomposition for trimesh				
 
 ### GDScript				
-* Typed instructiosn (first speed up)
+* Typed instructions (first speed up)
 * JIT Optimization (second speed up)	
 * Multithread support in debugger				
 				
