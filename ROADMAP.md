@@ -65,3 +65,11 @@
 * Ability to copy editing camera to in-game to explore level separately
 * Put real controls in the property editor, instead of a Tree; convert most editors to that format
 * Optionally put the game window in the editor (difficult to do, maybe impossible)
+
+### Audio
+
+* Analysis effects for audio buses with info that can be read from GDScript (Decibels, Fourier frequencies, BPM detection,  Pitch detection, etc).
+* Polyphonic AudioStream (play same stream more than once without having to create multiple nodes)
+* Reactive music (similar to how WWise works)
+* Audio Graph AudioStream (so sound engineers can create complex setups connecting streams and effect nodes)
+
