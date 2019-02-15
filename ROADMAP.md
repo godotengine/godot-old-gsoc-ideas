@@ -73,3 +73,9 @@
 * Reactive music (similar to how WWise works)
 * Audio Graph AudioStream (so sound engineers can create complex setups connecting streams and effect nodes)
 
+### Networking
+
+* Add helper node that simplifies synchronization (NetworkSync), so you can specify different properties to track and how to synchronize them (reliable, unreliable, discrete, continuous, interpolation modes, etc). Even replication (synchronize when instantiated).
+* Add API in base networking to make it easier to do replication using the above node (needs to be whitelisted).
+
+
